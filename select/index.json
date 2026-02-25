@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "stone cold summer",
+  "base_artist": "South Arcade",
+  "createdAt": "2026-02-25T14:32:32.207105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "stone cold summer",
+      "artist": "South Arcade",
+      "has_synced": true,
+      "path": "select/01_stone_cold_summer_South_Arcade.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "stone cold summer",
+      "artist": "South Arcade",
+      "has_synced": true,
+      "path": "select/02_stone_cold_summer_South_Arcade.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "stone cold summer",
+      "artist": "South Arcade",
+      "has_synced": false,
+      "path": "select/pl_01_stone_cold_summer_South_Arcade.txt"
+    }
+  ]
+}
