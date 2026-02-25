@@ -1,0 +1,64 @@
+# South Arcade – stone cold summer
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.13] I wanna be on my own planet
+[00:20.41] Where I don't run into you
+[00:21.74] And you don't run into me
+[00:24.69] Just "getting by" life
+[00:25.90] I can't stand it
+[00:28.89] Everybody taking it too seriously
+[00:45.39] 
+[00:32.69] Get lost at sea
+[00:34.46] Know what I mean
+[00:36.64] So don't come looking for me
+[00:50.64] 
+[00:40.39] But if she's small town heavy
+[00:42.65] She might not be ready
+[00:44.52] On this stone cold summer night
+[00:48.89] But if you just let me
+[00:51.16] Steal you from the city
+[00:53.03] Of your store bought paradise
+[00:55.62] Then we might be alright
+[01:07.62] 
+[01:06.15] And now i'm watching on the outside
+[01:08.79] (On the outside)
+[01:10.04] It's like your running race
+[01:11.98] That no one actually wins
+[01:12.74] No one actually wins
+[01:14.54] Your out of place and I'm like so what
+[01:16.99] So what
+[01:18.59] Don't have to sink if you can't swim
+[01:36.59] 
+[01:21.96] Get lost at sea
+[01:24.15] Know what I mean
+[01:26.21] So don't come looking for me
+[01:40.21] 
+[01:29.93] But if she's small town heavy
+[01:32.67] She might not be ready
+[01:34.45] On this stone cold summer night
+[01:38.45] But if you just let me
+[01:40.80] Steal you from the city
+[01:42.66] Of your store bought paradise
+[01:45.51] Then we might be alright
+[01:57.51] 
+[01:49.59] And we might be alright
+[01:53.57] And we might be alright
+[01:57.88] And we might be alright
+[02:09.38] 
+[02:03.87] Let go, you should let go
+[02:07.82] Won't you let go
+[02:10.22] You should let, let, let, let
+[02:12.67] Let go, you could let go
+[02:14.47] You could let go
+[02:16.34] You could let, let, let, let
+[02:30.34] 
+[02:20.36] But if she's small town heavy
+[02:22.11] She might not be ready
+[02:23.96] On this stone cold summer night
+[02:27.98] But if you just let me
+[02:30.36] Steal you from the city
+[02:32.26] Of your store bought paradise
+[02:35.34] Then we might be alright
+```
